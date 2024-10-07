@@ -120,7 +120,7 @@ st.markdown("""
 # Title in a container to ensure it's centered
 st.markdown("""
     <div class="title-container">
-        <h1>Investment Feasibility Tool</h1>
+        <h1>Tuning Tool</h1>
     </div>
 """, unsafe_allow_html=True)
 
@@ -189,7 +189,7 @@ def load_custom_css():
 load_custom_css()
 
 # Title for the app
-st.markdown("<div class='table-title'>OPC Adjuster</div>", unsafe_allow_html=True)
+st.markdown("<div class='table-title'>OPC Tuner</div>", unsafe_allow_html=True)
 
 # Define the initial data for OPC adjuster
 opc_data = {
@@ -247,7 +247,7 @@ st.markdown(f"""
 
 
 # Title for the RLP adjuster section
-st.markdown("<div class='table-title'>RLP Adjuster</div>", unsafe_allow_html=True)
+st.markdown("<div class='table-title'>RLP Tuner</div>", unsafe_allow_html=True)
 
 # Define the initial data for RLP adjuster
 rlp_data = {
