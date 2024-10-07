@@ -113,7 +113,7 @@ add_bg_image()
 # Logo at the top center with increased size
 st.markdown("""
     <div class="logo-img-container">
-        <img src="https://github.com/josh23josh23/pic/blob/main/image-removebg-preview.png?raw=true">
+        <img src="https://raw.githubusercontent.com/josh23josh23/RLPOPCAdjuster/refs/heads/main/grange-dark-blue-no-bg.png">
     </div>
 """, unsafe_allow_html=True)
 
