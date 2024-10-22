@@ -54,7 +54,7 @@ def add_bg_image():
         <style>
         /* Apply background image to the full Streamlit app container */
         .stApp {
-            background-image: url("https://raw.githubusercontent.com/josh23josh23/FEASO/refs/heads/main/peakpx%20(1).jpg");
+            background-image: url("https://raw.githubusercontent.com/josh23josh23/RLPOPCAdjuster/refs/heads/main/grange-dark-blue-no-bg.png");
             background-size: cover; /* Ensure background covers the entire container */
             background-position: center; /* Center the background */
             background-repeat: no-repeat; /* Prevent repeating */
